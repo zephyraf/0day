@@ -2,6 +2,6 @@
 
 Mutiple Redirect 
 
-Redirect to Multiple Domain if 1 domain gets Deceptive \n
-Easy to Use
+Redirect to Multiple Domain if 1 domain gets Deceptive |
+Easy to Use |
 API Parsing
